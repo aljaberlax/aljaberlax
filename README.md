@@ -114,6 +114,11 @@
 🔗 **Live Site:**
 [https://bike-bd-154c6.web.app/](https://bike-bd-154c6.web.app/)
 
+## 🏍 SQA manual testing Project
+
+🔗 **Link :**
+[Drive Link............](https://drive.google.com/drive/folders/1h85zgdJllPtq0bjQfRUDRFKvnJ6NeTus?usp=sharing)
+
 ### 🔍 QA Activities
 
 * Manual Testing
